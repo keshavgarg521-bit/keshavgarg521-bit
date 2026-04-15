@@ -20,14 +20,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-* 💡 Languages: C++, JavaScript
-* 🌐 Frontend: HTML, CSS, React (learning)
-* ⚙️ Tools: Git, GitHub, VS Code
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/keshav-garg-169399365
